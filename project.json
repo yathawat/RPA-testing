@@ -6,13 +6,14 @@
     "UiPath.Excel.Activities": "[2.9.5]",
     "UiPath.Mail.Activities": "[1.9.5]",
     "UiPath.System.Activities": "[20.10.3]",
+    "UiPath.Testing.Activities": "[1.2.5]",
     "UiPath.UIAutomation.Activities": "[20.10.8]"
   },
   "webServices": [],
   "entitiesStores": [],
   "schemaVersion": "4.0",
   "studioVersion": "20.10.4.0",
-  "projectVersion": "1.0.0",
+  "projectVersion": "1.0.3",
   "runtimeOptions": {
     "autoDispose": false,
     "isPausable": true,
@@ -38,17 +39,17 @@
     },
     "fileInfoCollection": [
       {
-        "editingStatus": "InProgress",
+        "editingStatus": "Publishable",
         "testCaseId": "34ac7f32-8117-4837-a787-0e256ef517e1",
         "fileName": "TestCase.xaml"
       },
       {
-        "editingStatus": "InProgress",
+        "editingStatus": "Publishable",
         "testCaseId": "8e087eeb-50ba-4e4c-ab73-92c82b41373e",
         "fileName": "TestCase1.xaml"
       },
       {
-        "editingStatus": "InProgress",
+        "editingStatus": "Publishable",
         "testCaseId": "37b9b155-8729-4050-9f28-b25c8b3dd03f",
         "dataVariationFilePath": ".variations\\Filespath_Sheet1.json",
         "fileName": "TestCase2.xaml"
@@ -60,7 +61,7 @@
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "5a1f3382-066c-45e8-81e7-9e30ecf0dc2d",
+      "uniqueId": "b62bec64-52f2-4aba-ba6e-309aa7fa757f",
       "input": [],
       "output": []
     }
